@@ -1,6 +1,4 @@
-### Hello, Im Noval Ramdhani.
-
-## I am a Web Developer
+### Hello, All.
 
 Hello 👋, I'm noval ramdhani, live in indonesia, a web developer, entered the programming world since 2019 I like reading comics, books, articles, love listening music and also love anime.
 
