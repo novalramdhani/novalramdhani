@@ -1,7 +1,5 @@
 ### Hello, Im Noval Ramdhani.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithval?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmartyr2&screen_name=Codewithval)
-
 ## I am a Web Developer
 
 Hello 👋, I'm noval ramdhani, live in indonesia, a web developer, entered the programming world since 2019 I like reading comics, books, articles, love listening music and also love anime.
