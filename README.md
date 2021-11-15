@@ -10,7 +10,7 @@ Hello 👋, I'm noval ramdhani, live in indonesia, a web developer, entered the 
 
 <br />
 
-### What technology do I like?:
+### The technology I like:
 
 <img align="left" title="Laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" title="Ruby On Rails" alt="Ruby On Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/rails/rails.png" />
