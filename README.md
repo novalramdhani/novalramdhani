@@ -14,6 +14,7 @@ Hello 👋, I'm noval ramdhani, live in indonesia, a web developer, entered the 
 
 <img align="left" title="Laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <img align="left" title="Ruby On Rails" alt="Ruby On Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/rails/rails.png" />
+<img align="left" title="ReactJs" alt="ReactJs" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/react/react.png" />
 
 [website]: https://www.novalramdhani.github.io
 [twitter]: https://twitter.com/codewithval
