@@ -1,13 +1,13 @@
 ### Hello, All.
 
-Hello 👋, I'm noval ramdhani, live in indonesia, a web developer, entered the programming world since 2019 I like reading comics, books, articles, love listening music and also love anime.
+Hello 👋, I'm noval ramdhani, live in indonesia, a web developer, entered the programming world since 2019 I like reading comics, books, novels, articles, love listening music and also love anime.
 
 ### Connect with me:
 
 [<img align="left" alt="novalramdhani.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="novalramdhani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="novalramdhani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 
 
 <br />
