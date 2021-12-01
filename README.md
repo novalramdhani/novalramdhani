@@ -1,6 +1,10 @@
-## Hello all 👋, Im Noval Ramdhani.
+## Hello all 👋.
 
 Live in indonesia, a web developer, entered the programming world since 2019 I like reading comics, books, novels, articles, love listening music and also love anime.
+
+- 🌱 I'm currently learning Laravel and Ruby On Rails
+- 🤓 Tech-loving and Linux enthusiast
+- 🔥 Fun fact: Love Anime
 
 ### Connect with me:
 
