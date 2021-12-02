@@ -6,20 +6,21 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 - 🤓 Tech-loving and Linux enthusiast
 - 🔥 Fun fact: Love Anime
 
+
+
+### Technology stack includes:
+
+<img align="left" title="Laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+<img align="left" title="Ruby On Rails" alt="Ruby On Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/rails/rails.png" />
+
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="novalramdhani.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="novalramdhani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="novalramdhani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
-
-
-<br />
-
-### Technology stack includes:
-
-<img align="left" title="Laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" title="Ruby On Rails" alt="Ruby On Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/rails/rails.png" />
 
 [website]: https://www.novalramdhani.github.io
 [twitter]: https://twitter.com/codewithval
