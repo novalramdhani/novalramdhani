@@ -8,7 +8,7 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 
 
 
-### Tech stack:
+### Tech stack
 
 <a href="https://laravel.com/" target="_blank"><img align="left" title="Laravel" alt="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30px" /></a>
 <a href="https://rubyonrails.org/" target="_blank"><img align="left" title="Ruby On Rails" alt="Ruby On Rails" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50px"/></a>
@@ -16,7 +16,7 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 
 <br />
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="novalramdhani.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="novalramdhani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
