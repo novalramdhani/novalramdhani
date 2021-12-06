@@ -10,8 +10,9 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 
 ### Tech stack:
 
-<a href="https://laravel.com/" target="_blank"><img align="left" title="Laravel" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" /></a>
-<a href="https://rubyonrails.org/" target="_blank"><img align="left" title="Ruby On Rails" alt="Ruby On Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/rails/rails.png" /></a>
+<a href="https://laravel.com/" target="_blank"><img align="left" title="Laravel" alt="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30px" /></a>
+<a href="https://rubyonrails.org/" target="_blank"><img align="left" title="Ruby On Rails" alt="Ruby On Rails" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50px"/></a>
+
 
 <br />
 
