@@ -25,4 +25,4 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 
 [website]: https://www.novalramdhani.github.io
 [twitter]: https://twitter.com/codewithval
-[instagram]: https://www.instagram.com/kyotohka
+[instagram]: https://www.instagram.com/noval.codes
