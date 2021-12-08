@@ -23,6 +23,6 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 [<img align="left" alt="novalramdhani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 
-[website]: https://www.novalramdhani.github.io
+[website]: https://novalra.vercel.app
 [twitter]: https://twitter.com/codewithval
 [instagram]: https://www.instagram.com/noval.codes
