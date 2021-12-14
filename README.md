@@ -26,3 +26,4 @@ Live in indonesia, a web developer, entered the programming world since 2019 I l
 [website]: https://novalra.vercel.app
 [twitter]: https://twitter.com/codewithval
 [instagram]: https://www.instagram.com/noval.codes
+[linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/
