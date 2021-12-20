@@ -1,18 +1,16 @@
-## Hello all. 👋
+## Hello 👋 I'm Noval Ramdhani.
 
-A web developer who lives in Indonesia, a technology enthusiast, eager to learn new things as well as a fan of the programming languages PHP, Javascript and Ruby, a lover of Laravel and Ruby On Rails back end framework and also likes reading books, novels, comics, love anime and music fans.
+A web developer who lives in Indonesia, a technology enthusiast. eager to learn new things as well as a fan of the programming languages PHP, Javascript and Ruby. a lover of Laravel and Ruby On Rails back end framework. and also likes reading books, novels, comics. love anime and music fans.
 
 - 🌱 I'm currently learning Laravel and Ruby On Rails
 - 🤓 Tech-loving and Linux enthusiast
 - 🔥 Fun fact: Love Anime
 
-
-
 ### Tech stack
 
-<a href="https://laravel.com/" target="_blank"><img align="left" title="Laravel" alt="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="30px" /></a>
-<a href="https://rubyonrails.org/" target="_blank"><img align="left" title="Ruby On Rails" alt="Ruby On Rails" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50px"/></a>
 
+<a href="https://rubyonrails.org/"><img align="left" alt="Ruby On Rails" title="Ruby On Rails" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" /></a>
+<a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 
 <br />
 
