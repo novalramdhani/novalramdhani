@@ -2,7 +2,7 @@
 
 A web developer who lives in Indonesia, a technology enthusiast. eager to learn new things as well as a fan of the programming languages PHP, Javascript and Ruby. 
 
-A lover of Laravel and Ruby On Rails back end framework. and also likes reading books, novels, comics. love anime and music fans.
+Also likes reading books, novels, comics. love anime and music fans.
 
 - 🌱 I'm currently learning Laravel and Ruby On Rails
 - 🤓 Tech-loving and Linux enthusiast
