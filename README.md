@@ -1,6 +1,8 @@
 ## Hello 👋 I'm Noval Ramdhani.
 
-A web developer who lives in Indonesia, a technology enthusiast. eager to learn new things as well as a fan of the programming languages PHP, Javascript and Ruby. 
+A web developer who lives in Indonesia, a technology enthusiast. 
+
+Eager to learn new things as well as a fan of the programming languages PHP, Javascript and Ruby. 
 
 Also likes reading books, novels, comics. love anime and music fans.
 
