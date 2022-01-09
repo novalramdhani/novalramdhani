@@ -10,8 +10,13 @@ Also likes reading books, novels, comics. love anime and music fans.
 - 🤓 Tech-loving and Linux enthusiast
 - 🔥 Fun fact: Love Anime
 
-### Tech stack
+### Languages
+<a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></a>
+<a href="https://www.ruby-lang.org/en/"><img align="left" alt="Ruby" title="Ruby" width="20px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" /></a>
 
+<br />
+
+### Tech stack
 
 <a href="https://rubyonrails.org/"><img align="left" alt="Ruby On Rails" title="Ruby On Rails" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
