@@ -30,7 +30,7 @@ Also likes reading books, novels, comics.
 [<img align="left" alt="novalramdhani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://novalra.vercel.app
+[website]: https://novalll.vercel.app
 [twitter]: https://twitter.com/codewithval
 [instagram]: https://www.instagram.com/noval.codes
 [linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/
