@@ -4,8 +4,6 @@ A web developer who lives in Indonesia, a technology enthusiast.
 
 Passionate about science, passion for new things and love to learn.
 
-Also likes reading books, novels, comics.
-
 - 🌱 I'm currently learning Laravel and Ruby On Rails
 - 🤓 Tech-loving and Linux enthusiast
 - 🔥 Fun fact: Love Anime
