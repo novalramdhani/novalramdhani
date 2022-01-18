@@ -1,9 +1,5 @@
 ## Hello 👋 I'm Noval Ramdhani.
 
-A web developer who lives in Indonesia, a technology enthusiast. 
-
-Passionate about science, passion for new things and love to learn.
-
 - 🌱 I'm currently learning Laravel and Ruby On Rails
 - 🤓 Tech-loving and Linux enthusiast
 - 🔥 Fun fact: Love Anime
