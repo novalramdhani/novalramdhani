@@ -25,8 +25,6 @@
 </a>
 </p>
 
-<br />
-
 ### Connect with me
 
 [<img align="left" alt="novalramdhani.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
