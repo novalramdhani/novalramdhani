@@ -17,6 +17,16 @@
 
 <br />
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/novalramdhani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=novalramdhani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=novalramdhani&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<br />
+
 ### Connect with me
 
 [<img align="left" alt="novalramdhani.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
