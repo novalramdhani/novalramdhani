@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Noval Ramdhani.
 
 - 🌱 I'm currently learning Laravel and Ruby On Rails
-- 👨‍💻 All of my projects are available at [novall.vercel.app](https://novall.vercel.app)
+- 👨‍💻 All of my projects are available at [novall.vercel.app][website]
 - 🤓 Tech-loving and Linux enthusiast
 - 🔥 Fun fact: Love Anime
 
@@ -35,5 +35,5 @@
 
 [website]: https://novall.vercel.app
 [twitter]: https://twitter.com/codewithval
-[instagram]: https://www.instagram.com/noval.codes
+[instagram]: https://www.instagram.com/novallrmdhni
 [linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/
