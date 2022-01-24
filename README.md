@@ -34,6 +34,6 @@
 [<img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://novall.vercel.app
-[twitter]: https://twitter.com/codewithval
+[twitter]: https://twitter.com/novallramdhani
 [instagram]: https://www.instagram.com/novallrmdhni
 [linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/
