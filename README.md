@@ -6,8 +6,9 @@
 - 🔥 Fun fact: Love Anime
 
 ### Languages
-<a href=""><img align="left" alt="Javascript" title="Javascript" width="28px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></a>
-<a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="40px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></a>
+<a href=""><img align="left" alt="Javascript" title="Javascript" width="20px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></a>
+<a href="https://www.ruby-lang.org/en/"><img align="left" alt="Ruby" title="Ruby" width="20px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
+<a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></a>
 <a href="https://www.ruby-lang.org/en/"><img align="left" alt="Ruby" title="Ruby" width="20px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" /></a>
 
 <br />
