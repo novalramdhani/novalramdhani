@@ -30,12 +30,10 @@
 
 ### Connect with me
 
-[<img align="left" alt="novalramdhani.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="novalramdhani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="novalramdhani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="novalramdhani | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="novalramdhani | Twitter" width="30px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
+[<img align="left" alt="novalramdhani | Instagram" width="20px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
+[<img align="left" alt="novalramdhani | Linkedin" width="20px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
-[website]: https://novall.vercel.app
 [twitter]: https://twitter.com/novallramdhani
 [instagram]: https://www.instagram.com/novallrmdhni
 [linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/
