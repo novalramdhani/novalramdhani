@@ -3,25 +3,23 @@
 - 🌱 I'm currently learning Laravel and Ruby On Rails
 - 👨‍💻 All of my projects are available at [official website](https://novall.vercel.app/projects)
 - 🤓 Tech-loving and Linux enthusiast
+- 📫 How to reach me: novalfitrahramdhani@gmail.com
 - 🔥 Fun fact: Love Anime
-
+<!-- 
 ### Languages
 <a href=""><img align="left" alt="Javascript" title="Javascript" width="20px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></a>
 <a href="https://www.typescriptlang.org/"><img align="left" alt="Typescript" title="Typescript" width="20px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></a>
 <a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="35px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" /></a>
 <a href="https://www.ruby-lang.org/"><img align="left" alt="Ruby" title="Ruby" width="20px" src="https://cdn.worldvectorlogo.com/logos/ruby.svg" /></a>
 
-<br />
+<br /> -->
 
 ### Tech stack
 
-<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-
-<a href="https://rubyonrails.org/"><img align="left" alt="Ruby On Rails" title="Ruby On Rails" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" /></a>
-
+<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://rubyonrails.org/"><img align="left" alt="Ruby On Rails" title="Ruby On Rails" width="45px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 
-<br />
 
 <!-- ### Github Statistic
 <p align="left">
