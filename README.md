@@ -15,7 +15,10 @@
 
 ### Tech stack
 
+<a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+
 <a href="https://rubyonrails.org/"><img align="left" alt="Ruby On Rails" title="Ruby On Rails" width="50px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" /></a>
+
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 
 <br />
@@ -28,7 +31,7 @@
 </a>
 </p> -->
 
-### Connect with me
+<!-- ### Connect with me
 
 [<img align="left" alt="novalramdhani | Twitter" width="30px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />][twitter]
 [<img align="left" alt="novalramdhani | Instagram" width="20px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-6.svg" />][instagram]
@@ -36,4 +39,4 @@
 
 [twitter]: https://twitter.com/novallramdhani
 [instagram]: https://www.instagram.com/novallrmdhni
-[linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/
+[linkedin]: https://www.linkedin.com/in/noval-ramdhani-26a127219/ -->
