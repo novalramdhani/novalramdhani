@@ -1,10 +1,10 @@
 ## Hello 👋 I'm Noval Ramdhani.
 
 - 🌱 I'm currently learning Laravel and Ruby On Rails
-- 👨‍💻 All of my projects are available at [official website](https://novalnotes.vercel.app/projects)
-- 🤓 Tech-loving and Linux enthusiast
+- 🚀 All of my projects are available at [official website](https://novalnotes.vercel.app/projects)
+- ⚡️ Tech-loving and Linux enthusiast
 - 📫 How to reach me: novalfitrahramdhani@gmail.com
-- 🔥 Fun fact: Love Anime
+- ✨ Fun fact: Anime lovers
 
 ### Tech stack
 
