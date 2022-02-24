@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Noval Ramdhani.
 
-- 🌱 I'm currently learning Laravel and Ruby On Rails
+- 🌱 I'm currently learning Back end apps
 - 🚀 All of my projects are available at [official website](https://novalnotes.vercel.app/projects)
 - ⚡️ Tech-loving and Linux enthusiast
 - 📫 How to reach me: novalfitrahramdhani@gmail.com
