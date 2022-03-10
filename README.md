@@ -23,3 +23,5 @@
 - <a href="https://novalnotes.vercel.app">Website</a>
 - <a href="https://instagram.com/novallrmdhni">Instagram</a>
 - <a href="https://twitter.com/novallramdhani">Twitter</a>
+- <a href="https://www.showwcase.com/novalrmdhni">Showwcase</a>
+- <a href="https://dev.to/novalramdhani">DEV</a>
