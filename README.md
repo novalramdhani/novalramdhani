@@ -19,9 +19,9 @@
 
 ### Connect with me on
 
-- <a href="https://linkedin.com/in/noval-ramdhani-26a127219">LinkedIn</a>
+- <a href="https://linkedin.com/in/novalramdhani/">LinkedIn</a>
 - <a href="https://novalnotes.vercel.app">Website</a>
 - <a href="https://instagram.com/novallrmdhni">Instagram</a>
 - <a href="https://twitter.com/novallramdhani">Twitter</a>
-- <a href="https://www.showwcase.com/novalrmdhni">Showwcase</a>
+- <a href="https://showwcase.com/novalrmdhni">Showwcase</a>
 - <a href="https://dev.to/novalramdhani">DEV</a>
