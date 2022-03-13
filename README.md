@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning back end apps
 - 🚀 All of my projects are available at [official website](https://novalnotes.vercel.app/projects)
-- ⚡️ Tech-loving and Linux enthusiast
+- ⚡️ Tech-Enthusiast
 - 📫 How to reach me: novalfitrahramdhani@gmail.com
 - 💼 Work from home made me do more projects than ever
 - ✨ Fun fact: Anime lovers
