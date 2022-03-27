@@ -2,7 +2,7 @@
 
 ## Hello 👋 I'm Noval Ramdhani.
 
-- 🌱 I'm currently learning back end apps
+- 🌱 I'm currently learning back end tech
 - 🚀 All of my projects are available at [official website](https://novalll.vercel.app/projects)
 - 📫 How to reach me: novalfitrahramdhani@gmail.com
 - 💼 Work from home made me do more projects than ever
