@@ -10,8 +10,8 @@
 
 ### Tech stack
 
-<a href="https://nextjs.org/"><img align="left" alt="Next.js" title="Next.js" width="22px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></a>
-<a href="https://reactjs.org/"><img align="left" alt="React.js" title="React.js" width="22px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<!-- <a href="https://nextjs.org/"><img align="left" alt="Next.js" title="Next.js" width="22px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React.js" title="React.js" width="22px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a> -->
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="https://rubyonrails.org/"><img align="left" alt="Rails" title="Rails" width="45px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" />
   
