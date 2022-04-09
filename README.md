@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/novalramdhani)
-
 ## Hello 👋 I'm Noval Ramdhani.
 
 - 🌱 I'm currently learning back end tech
