@@ -16,6 +16,5 @@
 ### Connect with me on
 
 - <a href="https://linkedin.com/in/novalramdhani/">LinkedIn</a>
-- <a href="https://novalll.vercel.app">Website</a>
 - <a href="https://instagram.com/novallrmdhni">Instagram</a>
 - <a href="https://twitter.com/novallramdhani">Twitter</a>
