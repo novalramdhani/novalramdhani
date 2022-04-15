@@ -7,6 +7,7 @@
 
 <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next" width="22px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="22px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://graphql.org/"><img align="left" alt="GraphQL" title="GraphQL" width="22px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" /></a>
 <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="https://rubyonrails.org/"><img align="left" alt="Ruby On Rails" title="Ruby On Rails" width="45px" src="https://cdn.worldvectorlogo.com/logos/rails-1.svg" /></a>
 
