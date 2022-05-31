@@ -1,6 +1,6 @@
 Hi! Welcome to my github profile.
 
-### Connect with me on
+#### Connect with me on
 
 - <a href="https://linkedin.com/in/novalramdhani/">LinkedIn</a>
 - <a href="https://instagram.com/novallrmdhni">Instagram</a>
