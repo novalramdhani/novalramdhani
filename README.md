@@ -5,6 +5,11 @@ Technology Enthusiast, an Software Engineer especially in the field of web devel
 
 I'm now active in a community I built called [fullstuckid](https://github.com/fullstuckid) and to contributing with my programming community friends.
 
+- 🌱 I'm currently learning javascript for backend.
+- 🚀 All of my projects are available at [official website](https://novalnotes.vercel.app/projects)
+- 📫 How to reach me: novalfitrahramdhani@gmail.com
+- 💼 Work from home made me do more projects than ever
+
 ### Tech stack
 
 <a href="https://nextjs.org/"><img align="left" alt="Nextjs" title="Nextjs" width="25px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" /></a>
@@ -19,4 +24,3 @@ I'm now active in a community I built called [fullstuckid](https://github.com/fu
 - <a href="https://linkedin.com/in/novalramdhani/">LinkedIn</a>
 - <a href="https://instagram.com/novallrmdhni">Instagram</a>
 - <a href="https://twitter.com/novallramdhani">Twitter</a>
-- <a href="https://bio.link/novalramdhani">Website</a>
