@@ -6,7 +6,7 @@ Technology Enthusiast, an Software Engineer especially in the field of web devel
 I'm now active in a community I built called [fullstuckid](https://github.com/fullstuckid) and to contributing with my programming community friends.
 
 - 🌱 I'm currently learning javascript for backend.
-- 🚀 All of my projects are available at [official website](https://novalnotes.vercel.app/projects)
+- 🚀 All of my projects are available at [official website](https://novalll.vercel.app/projects)
 - 📫 How to reach me: novalfitrahramdhani@gmail.com
 - 💼 Work from home made me do more projects than ever
 
