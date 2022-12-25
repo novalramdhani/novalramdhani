@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/novalramdhani)
 
-### Hello 👋, I'm Noval.
+### Hello, I'm Noval.
 Technology Enthusiast, an Software Engineer especially in the field of web development, I'm Anime Lover.
 
 I'm now active in a community I built called [fullstuckid](https://github.com/fullstuckid) and to contributing with my programming community friends.
