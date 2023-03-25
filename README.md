@@ -3,7 +3,7 @@
 ### Hello, I'm Noval.
 Technology enthusiast, an Software Engineer especially in the field of web development.
 
-I'm now active in a community I built called [fullstuckid](https://github.com/fullstuckid) and to contributing with my programming community friends.
+I'm now active in a community I built called [devixid](https://github.com/devixid) and to contributing with my programming community friends.
 
 - 🌱 I'm currently learning javascript for backend.
 - 🚀 All of my projects are available at [official website](https://novalll.vercel.app/projects)
