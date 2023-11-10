@@ -3,7 +3,7 @@ Technology enthusiast, an Software Engineer especially in the field of web devel
 
 I'm currently active in a community called [devixid](https://github.com/devixid) and to contributing with my programming community.
 
-- 🌱 I'm currently learning javascript backend and data analyst.
+- 🌱 I'm currently learning javascript for backend.
 - 🚀 All of my projects are available at [official website](https://novalll.vercel.app/projects).
 - 📫 How to reach me: novalfitrahramdhani@gmail.com.
 - 💼 Work from home made me do more projects than ever.
